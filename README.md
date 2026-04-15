@@ -54,6 +54,12 @@ Consider a microscopic, flexible filament. When compressed axially, it resists d
 4. Beyond the Physical Limits
 While the laws of classical physics make it nearly impossible to pair a filament-based constant force escapement with a rotating Tourbillon, digital technology knows no such bounds. In the real world, the rotation would destabilize the delicate buckling motion; in Cal. 2601, they coexist in perfect equilibrium. This app offers a unique window into a mechanical "impossibility," allowing you to explore a level of horological complexity that only digital craftsmanship can provide.
 
+Contact & Support <br> 
+For technical inquiries or feedback: <br> 
+1178287albertaltd@gmail.com <br>
+Designed and developed in Calgary, Alberta. <br> 
+© 2026 Silva Arcana. All rights reserved. <br>
+
 用户指南
 
 1.	GMT 指针前进一小时：在计时功能未启动状态下，双击音量上键
@@ -78,8 +84,8 @@ While the laws of classical physics make it nearly impossible to pair a filament
  
 4. 超越物理极限 尽管经典物理法则使得“细丝恒定动力”与“旋转陀飞轮”的结合在现实中几乎无法实现（旋转会干扰精细的屈曲动作），但数字技术让这种不可能成为了可能。在 Cal. 2601 中，两者在完美的平衡中并存。我们为你打开了一扇窗，让你领略唯有数字匠心才能构建的机械奇迹。
  
-联系方式和技术支持 
-技术支持与反馈，请发送邮件至: 
-1178287albertaltd@gmail.com
-Designed and developed in Calgary, Alberta. 
+联系方式和技术支持 <br> 
+技术支持与反馈，请发送邮件至: <br> 
+1178287albertaltd@gmail.com <br>
+Designed and developed in Calgary, Alberta. <br> 
 © 2026 Silva Arcana. All rights reserved.

@@ -1,6 +1,16 @@
 # SA-2601
 iOS APP_SA-2601 technical support
 
+User instruction:
+•	Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running) <br> 
+•	Chronograph controls: <br> 
+• Start: single press Volume Down <br> 
+• Stop: single press Volume Down <br> 
+• Resume: single press Volume Down <br> 
+• Flyback: single press Volume Up (while running) <br> 
+• Reset: double press Volume Down (when stopped) <br> 
+
+
 About Cal. 2601
 A design inspired by the timeless craftsmanship of Vallée de Joux.
  

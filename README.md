@@ -1,7 +1,17 @@
 # SA-2601
 iOS APP_SA-2601 technical support
 
-About SA-2601
+User instruction:
+
+•	Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running)
+•	Chronograph controls:
+• Start: single press Volume Down
+• Stop: single press Volume Down
+• Resume: single press Volume Down
+• Flyback: single press Volume Up (while running)
+• Reset: double press Volume Down (when stopped)
+
+About Caliber SA-2601
 
 This app is designed as a conceptual demonstration of mechanical timekeeping systems, while also functioning as a fully featured clock application with an interactive chronograph and multi-layer dial structure.
 The movement animation is not purely decorative. It is a real-time simulation inspired by the operating principles of mechanical watches, synchronized with the timekeeping system and following consistent mechanical logic. Simulated components include a constant-force escapement concept, a balance wheel, and a simplified gear train. The gear system has been intentionally reduced in complexity to optimize performance and maintain visual clarity.
@@ -44,9 +54,32 @@ Consider a microscopic, flexible filament. When compressed axially, it resists d
 4. Beyond the Physical Limits
 While the laws of classical physics make it nearly impossible to pair a filament-based constant force escapement with a rotating Tourbillon, digital technology knows no such bounds. In the real world, the rotation would destabilize the delicate buckling motion; in Cal. 2601, they coexist in perfect equilibrium. This app offers a unique window into a mechanical "impossibility," allowing you to explore a level of horological complexity that only digital craftsmanship can provide.
 
+用户指南
 
-Contact & Support 
-For technical inquiries or feedback: 
-1178287AlbertaLtd@gmail.com
+1.	GMT 指针前进一小时：在计时功能未启动状态下，双击音量上键
+2.	计时功能操作：
+• 启动计时：单击音量下键
+• 停止计时：再次单击音量下键
+• 继续计时：再次单击音量下键
+• 飞返计时：计时运行状态下，单击音量上键
+• 计时归零：计时停止状态下，双击音量下键
+
+关于机芯2601
+一个向汝拉山谷的传统工艺致敬的作品
+ 
+1.追求精准：驯服动力 计时精度的极致，始于对能量的掌控。在传统机械机芯中，主发条释放的扭矩会随着动力耗尽而减弱。为了超越这一物理极限，Cal. 2601 模拟了高级制表界梦寐以求的“恒定动力擒纵系统”。通过驾驭微型钢丝的“压杆失稳”原理，我们将波动的能量转化为恒定的脉冲。这不仅是逻辑的胜利，更是对传统制表巅峰的数字致敬。
+ 
+2. 技术洞察：恒定动力的必要性
+•	动力流失困境： 主发条像一个减压水库，扭矩在满弦时达到顶峰，随之逐渐衰减。
+•	摆幅波动： 不稳定的能量流导致摆轮摆幅变化，破坏了等时性。
+•	恒定动力的角色： 它作为二次调节器，确保无论发条状态如何，传递至擒纵系统的动力始终如一。
+ 
+3. 压杆失稳原理：硅与钢的律动 想象一根微型柔性细丝，受压时它会保持刚性，直到达到“临界载荷”并发生“屈曲”。这种机制的精妙之处在于：一旦进入屈曲状态，无论输入能量如何波动，细丝在运动范围内提供的力几乎是恒定的。Cal. 2601 精确模拟了这种弹跳与释放的过程，为振荡器提供完美的计量脉冲。
+ 
+4. 超越物理极限 尽管经典物理法则使得“细丝恒定动力”与“旋转陀飞轮”的结合在现实中几乎无法实现（旋转会干扰精细的屈曲动作），但数字技术让这种不可能成为了可能。在 Cal. 2601 中，两者在完美的平衡中并存。我们为你打开了一扇窗，让你领略唯有数字匠心才能构建的机械奇迹。
+ 
+联系方式和技术支持 
+技术支持与反馈，请发送邮件至: 
+wangyangcalgary@gmail.com
 Designed and developed in Calgary, Alberta. 
 © 2026 Silva Arcana. All rights reserved.

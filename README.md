@@ -47,6 +47,6 @@ While the laws of classical physics make it nearly impossible to pair a filament
 
 Contact & Support 
 For technical inquiries or feedback: 
-wangyangcalgary@gmail.com
+1178287AlbertaLtd@gmail.com
 Designed and developed in Calgary, Alberta. 
 © 2026 Silva Arcana. All rights reserved.
